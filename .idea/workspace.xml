@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b3c827-0b54-4a34-8426-774cf2d0d845" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DA326A-Lab1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DA326A-Lab1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DA326A-Lab1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DA326A-Lab1" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1hE1mmGjuzMHmZ0zGf8z3QiDmen" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ReceiverGUI (1)">
+    <configuration name="ReceiverGUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.espressoshock.exercises.task2.ReceiverGUI" />
+      <module name="DA326A-Lab1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.espressoshock.exercises.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiverGUI (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.espressoshock.exercises.task3.ReceiverGUI" />
+      <module name="DA326A-Lab1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.espressoshock.exercises.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiverGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.espressoshock.exercises.task1.ReceiverGUI" />
+      <module name="DA326A-Lab1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.espressoshock.exercises.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SenderGUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.espressoshock.exercises.task2.SenderGUI" />
+      <module name="DA326A-Lab1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.espressoshock.exercises.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SenderGUI (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.espressoshock.exercises.task3.SenderGUI" />
+      <module name="DA326A-Lab1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.espressoshock.exercises.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReceiverGUI (2)" />
+        <item itemvalue="Application.SenderGUI (2)" />
+        <item itemvalue="Application.ReceiverGUI (1)" />
+        <item itemvalue="Application.SenderGUI (1)" />
+        <item itemvalue="Application.ReceiverGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b3c827-0b54-4a34-8426-774cf2d0d845" name="Default Changelist" comment="" />
+      <created>1599561598592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599561598592</updated>
+      <workItem from="1599561602087" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1019" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599561667123">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1019" y="315" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1599561667123" />
+    <state width="2517" height="278" key="GridCell.Tab.0.bottom" timestamp="1599561950515">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="278" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1599561950515" />
+    <state width="2517" height="278" key="GridCell.Tab.0.center" timestamp="1599561950515">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="278" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1599561950515" />
+    <state width="2517" height="278" key="GridCell.Tab.0.left" timestamp="1599561950515">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="278" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1599561950515" />
+    <state width="2517" height="278" key="GridCell.Tab.0.right" timestamp="1599561950515">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="278" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1599561950515" />
+  </component>
+</project>
